@@ -1,10 +1,10 @@
 class Animal: #base class
     def speak(self):
-        return "sound"
+        return "sounds"
 
 class Dog(Animal): #derived class
     def speak(self):
-        return "Woof! Woof!"
+        return "Woof! Woof! woof!"
 
     def speak_with_generic_sound(self):
         return super().speak()  #initializes the method from the base class
