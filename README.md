@@ -10,8 +10,7 @@ This repository documents my 100-day journey of learning and practicing Python. 
 
 - **Day 1:** Introduction to Object-Oriented Programming (OOP) and Inheritance.
 - **Day 2:** Introduction to Test-Driven Development(TDD)
-- Day 2: [Add your goals for Day 2 here]
-- Day 3: [Add your goals for Day 3 here]
+
 - ...
 - Day 100: [Add your goals for Day 100 here]
 
